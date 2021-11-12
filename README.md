@@ -1,2 +1,16 @@
 # flip
-Flip All The Bits! Simple and quite unnoticeable obfuscation.
+Simple and quite unnoticeable obfuscation tool.
+
+![](meme.jpg)
+
+### Usage :-
+```
+flip <file_name>
+```
+
+### Installation :-
+1. `git clone https://github.com/Tanishq-Banyal/flip`
+2. `sudo g++ -O3 -s flip/flip.cpp -o /usr/bin/flip && rm -r flip`
+
+### Uninstallation :-
+1. `sudo rm /usr/bin/flip`
